@@ -6,12 +6,12 @@
 <span> 💌 paqglje@naver.com </span>
 
 
-<a href="https://www.instagram.com/dding_ji_k/">
+<a href="https://www.instagram.com/mangopasta_">
     <img 
         src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://www.instagram.com/mangopasta_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@dding_ji">
+<a href="https://velog.io/@jungeun-dev">
     <img 
         src="http://img.shields.io/badge/-Velog-9cf?style=flat&logo=Vector Logo Zone&link=https://velog.io/@jungeun-dev"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
