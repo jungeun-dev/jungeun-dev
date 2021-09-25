@@ -1,5 +1,5 @@
 
-<h2> 🥳Hello! This is MyoungJi Kim. </h2>
+<h2> 🥳Hello! This is Jungeun-dev. </h2>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
