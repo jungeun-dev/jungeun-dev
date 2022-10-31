@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-<span> 💌 paqglje@naver.com </span>
+<span> 💌 paqglje@gmail.com </span>
 
 
 <a href="https://www.instagram.com/mangopasta_">
